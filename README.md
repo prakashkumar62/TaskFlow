@@ -21,37 +21,12 @@ Rather than over-complicating task management with unnecessary layers of configu
 This project was built from scratch as part of my frontend development journey to master modern React 19 fundamentals, hooks, and utility-first styling with Tailwind CSS.
 
 ---
-
 ## 📸 Screenshots
 
-<!-- 
-====================================================================
-SCREENSHOT PLACEHOLDER:
-To add your screenshots:
-1. Create a `screenshots` folder in the root directory (e.g., /screenshots).
-2. Take a screenshot of your running application and save it as `preview.png`.
-3. Replace the placeholder comment below with:
-   ![Application Preview](./screenshots/preview.png)
-====================================================================
--->
+### TaskFlow — Application Preview
 
-> **Note:** Screenshots will be added once deployment and visual assets are finalized.
-> 
-> ```
-> ┌──────────────────────────────────────────────────────────┐
-> │                   [ APPLICATION PREVIEW ]                │
-> │                                                          │
-> │       MY PRODUCTIVITY                                    │
-> │       My Tasks                     [REMAINING: 3]        │
-> │       Organize your day...         [COMPLETED: 2]        │
-> │                                                          │
-> │    [ + Add a new task...                       ] [+ Add] │
-> │    [ All ] [ Active ] [ Completed ]    [Clear completed] │
-> │                                                          │
-> │    [✓] Finish project documentation                      │
-> │    [ ] Review pull requests                              │
-> └──────────────────────────────────────────────────────────┘
-> ```
+![TaskFlow Todo List Application](./screenshots/taskflow-preview.png)
+
 
 ---
 
